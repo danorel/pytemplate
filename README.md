@@ -1,6 +1,6 @@
-# Foobar
+# foobar
 
-Foobar is a Python project for dealing with ...
+foobar is a Python project for dealing with ...
 
 ## Installation & Contributing
 
@@ -9,7 +9,7 @@ Use the [DEVELOPER.md](./DEVELOPER.md) guide to run or contribute to the project
 ## Usage
 
 ```python
-... Awaiting for your CLI here
+python -m main.py
 ```
 
 ## License
